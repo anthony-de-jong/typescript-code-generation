@@ -1,5 +1,5 @@
 {
-  "name": "typescript-factory-unpacked",
+  "name": "typescript-code-generation",
   "version": "0.0.1",
   "description": "Wrapper around the Typescript Compiler API that changes the parameters to a single object so you can omit unused paramters making for a cleaner function call.",
   "type": "module",
